@@ -2,7 +2,7 @@
 Bash script for compiling c files in your terminal.
 
 ## Installation
-- Follow these simple steps:
+Follow these simple steps:
 
 	* There are 2 files in this repo `.bash_aliases` & `update_bash_aliases.sh`. 
 	Run `update_bash_aliases.sh` in your CLI like this: 
