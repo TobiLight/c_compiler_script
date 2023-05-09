@@ -11,4 +11,4 @@ if [ ! -f "$1" ]; then
 fi
 
 # Append the text from the file to the .bash_aliases file
-cat "$1" >> "\n$BASH_ALIASES_FILE"
+cat "\n$1" >> "$BASH_ALIASES_FILE"
